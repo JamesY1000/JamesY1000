@@ -1,8 +1,5 @@
 # About me
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on some personal robotics and computer vision projects.
 - 🌱 I’m currently learning robotics, computer vision, ML, DL.
 - 👯 I’m looking to collaborate on autonomous systems, robotics.
